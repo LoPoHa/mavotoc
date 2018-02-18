@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="96mm"
+   height="96mm"
+   viewBox="0 0 96 96"
+   version="1.1"
+   id="svg3705"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="icon.svg"
+   inkscape:export-filename="/home/lopoha/browser_addon/mavotoc/icons/icon_96.png"
+   inkscape:export-xdpi="25.4"
+   inkscape:export-ydpi="25.4">
+  <defs
+     id="defs3699" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="407.67872"
+     inkscape:cy="40.052319"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="3840"
+     inkscape:window-height="2096"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3702">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-201)">
+    <circle
+       id="path3707"
+       cx="48"
+       cy="249"
+       style="stroke-width:0.26380333;fill:#ff5555"
+       r="48" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="48.385231"
+       y="233.11726"
+       id="text3711"><tspan
+         sodipodi:role="line"
+         x="48.385231"
+         y="233.11726"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.75555611px;font-family:'Lohit Gujarati';-inkscape-font-specification:'Lohit Gujarati';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan3757">たんご</tspan><tspan
+         sodipodi:role="line"
+         x="48.385231"
+         y="257.81171"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.75555611px;font-family:'Lohit Gujarati';-inkscape-font-specification:'Lohit Gujarati';text-align:center;text-anchor:middle;stroke-width:0.26458332;fill:#000000"
+         id="tspan3761">まるごと</tspan><tspan
+         sodipodi:role="line"
+         x="48.385231"
+         y="280.52597"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.75555611px;font-family:'Lohit Gujarati';-inkscape-font-specification:'Lohit Gujarati';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan3743">CSV</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3717"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion3719"><rect
+           id="rect3721"
+           width="675.28699"
+           height="550.02808"
+           x="-218.69803"
+           y="-62.944641" /></flowRegion><flowPara
+         id="flowPara3723"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3725"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion3727"><rect
+           id="rect3729"
+           width="655.08392"
+           height="691.95447"
+           x="-118.69292"
+           y="-62.944641" /></flowRegion><flowPara
+         id="flowPara3731"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3745"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion3747"><rect
+           id="rect3749"
+           width="118.69292"
+           height="145.96704"
+           x="74.751289"
+           y="181.51227" /></flowRegion><flowPara
+         id="flowPara3751"></flowPara></flowRoot>  </g>
+</svg>

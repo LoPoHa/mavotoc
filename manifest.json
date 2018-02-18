@@ -1,0 +1,24 @@
+{
+	"manifest_version": 2,
+	"name": "Mavotoc",
+	"version": "1.0",
+
+	"description": "Unofficial webextension! Get the vocabulary from 'words.marugotoweb.jp' as csv to import into e.g. quizlet.",
+
+	"icons": {
+		"48": "icons/icon_48.png",
+		"96": "icons/icon_96.png"
+	},
+
+	"content_scripts": [
+		{
+			"matches": ["*://words.marugotoweb.jp/mylist.php?*"],
+			"js": ["js/main.js"],
+			"css": ["css/main.css"]
+		}
+	],
+
+	"permissions": [
+		"*://words.marugotoweb.jp/mylist.php?/*"
+	]
+}
