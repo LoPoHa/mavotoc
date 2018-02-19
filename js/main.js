@@ -85,24 +85,6 @@ function addHandler() {
 		popupContainer.style.display = 'block';
 	}
 
-	function createList(vocabularyAllList, exclude) {
-		let kanji = isKanji();
-		let contentString = '';
-		for (let i = 0; i < vocabularyAllList.length; i++) {
-			// check if vocabulary is excluded
-			if (exclude.indexOf(vocabularyAllList[i].ID) == -1) {
-				let to_add = '';
-				if (kanji) {
-					to_add = vocabularyAllList[i].KANJI;
-				} else {
-					to_add = vocabularyAllList[i].KANA;
-				}
-				contentString += '"' + vocabularyAllList[i].UWRD + '";"' + to_add + '";<br />';
-			}
-		}
-		return contentString;
-	}
-
 	function loadVocabulary() {
 		let config = getConfigFromUrl();
 		let url = 'http://words.marugotoweb.jp/SearchCategoryAPI'
@@ -185,7 +167,9 @@ function addHandler() {
 				} else {
 					to_add = vocabularyAllList[i].KANA;
 				}
-				contentString += '"' + vocabularyAllList[i].UWRD + '";"' + to_add + '";<br />';
+				// replace ideographic space with normal space
+        to_add = to_add.replace(/\u3000/, ' ').trim();
+				contentString += vocabularyAllList[i].UWRD + ';' + to_add + '<br />';
 			}
 		}
 		return contentString;
