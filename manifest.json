@@ -20,5 +20,9 @@
 
 	"permissions": [
 		"*://words.marugotoweb.jp/mylist.php?/*"
+	],
+
+	"web_accessible_resources": [
+  	"images/csv_button.png"
 	]
 }

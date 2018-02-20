@@ -11,6 +11,7 @@ function injectHTML () {
 	let newButtonA = document.createElement('a');
 	newButtonA.className = 'a-img-button';
 	newButtonA.id = 'mavotoc_webextension_button_a';
+	newButtonA.style.backgroundImage = 'url(' + browser.extension.getURL('images/csv_button.png') + ')';
 
 	newButtonDiv.appendChild(newButtonA);
 
