@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="142" height="38.999" version="1.1" viewBox="0 0 142 38.999405" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+    <cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+   </cc:Work>
+   <cc:License rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="linearGradient5480" x1="75.042" x2="75.042" y1="112.81" y2="40.686" gradientTransform="matrix(.75001 0 0 .75001 0 -39.564)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#d3cbc2" offset="0"/>
+   <stop stop-color="#d3cbc2" stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g stroke-linejoin="round">
+  <rect x=".42014" y=".42014" width="141.16" height="38.159" ry="5.0399" fill="#fff" stroke="#fff" stroke-width=".84028"/>
+  <rect x=".42014" y=".42014" width="141.16" height="38.159" ry="5.0399" fill="url(#linearGradient5480)" stroke="#d3cbc2" stroke-width=".84028"/>
+  <path d="m33.789 11.664v5.3394h5.7745zh-7.5015v19.817h13.276v-14.477h-5.7745z" fill-opacity="0" stroke="#504134" stroke-width=".75001"/>
+ </g>
+ <text x="27.439512" y="29.764944" fill="#504134" font-family="'Liberation Mono'" font-size="30px" letter-spacing="0px" stroke-width=".75001" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="27.439512" y="29.764944" font-size="6.0001px" stroke-width=".75001">csv</tspan></text>
+ <rect x="14.12" y="9.2094" width="10.686" height="15.93" fill="#504134" stroke="#504134" stroke-linejoin="round" stroke-width=".5585"/>
+ <g fill="#fff">
+  <path d="m19.98 10.612h4.0399v0.48825h-4.0399zm-5.0734 0h4.0399v0.48825h-4.0399z" fill-opacity=".73725"/>
+  <path d="m19.98 13.027h4.0399v0.48855h-4.0399zm-5.0734 0h4.0399v0.48855h-4.0399z" fill-opacity=".42745"/>
+  <path d="m19.98 11.796h4.0399v0.48855h-4.0399zm-5.0734 0h4.0399v0.48855h-4.0399z" fill-opacity=".33725"/>
+  <path d="m19.98 15.3h4.0399v0.48855h-4.0399zm-5.0734 0h4.0399v0.48855h-4.0399z" fill-opacity=".7451"/>
+  <path d="m19.98 14.182h4.0399v0.48855h-4.0399zm-5.0734 0h4.0399v0.48855h-4.0399z" fill-opacity=".80784"/>
+  <path d="m19.98 16.437h4.0399v0.48855h-4.0399zm-5.0734 0h4.0399v0.48855h-4.0399z" fill-opacity=".52549"/>
+  <path d="m19.98 17.546h4.0399v0.48855h-4.0399zm-5.0734 0h4.0399v0.48855h-4.0399z" fill-opacity=".87059"/>
+  <path d="m19.98 19.819h4.0399v0.48855h-4.0399zm-5.0734 0h4.0399v0.48855h-4.0399z" fill-opacity=".16078"/>
+  <path d="m19.98 18.701h4.0399v0.48855h-4.0399zm-5.0734 0h4.0399v0.48855h-4.0399z" fill-opacity=".76078"/>
+  <path d="m19.98 20.956h4.0399v0.48855h-4.0399zm-5.0734 0h4.0399v0.48855h-4.0399z" fill-opacity=".66275"/>
+  <path d="m19.98 23.089h4.0399v0.48855h-4.0399zm-5.0734 0h4.0399v0.48855h-4.0399z" fill-opacity=".7098"/>
+  <path d="m19.98 21.971h4.0399v0.48855h-4.0399zm-5.0734 0h4.0399v0.48855h-4.0399z" fill-opacity=".89804"/>
+  <path d="m19.98 24.226h4.0399v0.48855h-4.0399zm-5.0734 0h4.0399v0.48855h-4.0399z" fill-opacity=".43922"/>
+  <rect x="14.906" y="9.654" width="9.1131" height=".48825" fill-opacity=".75294"/>
+ </g>
+ <path d="m19.98 18.034h3.2272v2.1459h1.7573v-1.5883h0.67615l3.7509 3.1428-3.7509 3.7511h-0.65925v-1.6897l-2.7035 2.7e-4c-1.6189-0.09316-2.2415-0.90158-2.2978-2.3656z" fill="#e6e1d7" stroke="#504134" stroke-width=".5407px"/>
+ <text x="46.594162" y="26.343039" fill="#504134" font-family="sans-serif" font-size="30px" letter-spacing="0px" stroke-width=".75001" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="46.594162" y="26.343039" fill="#504134" font-family="'Liberation Sans'" font-size="18px" stroke-width=".75001">Make CSV</tspan></text>
+</svg>

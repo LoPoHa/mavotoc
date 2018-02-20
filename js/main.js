@@ -19,13 +19,16 @@ function injectHTML () {
 	newButtonDiv.id= 'mavotoc_webextension_button_div';
 	newButtonDiv.setAttribute('style', 'float: left; margin-right: 8px;');
 
-	let newButtonA = document.createElement('a');
-	newButtonA.className = 'a-img-button';
-	newButtonA.id = 'mavotoc_webextension_button_a';
+	// the website uses <a> with a css background-image instead of <img>
+	// don't know why though...
+	let newButtonImg = document.createElement('img');
+	newButtonImg.className = 'a-img-button';
+	newButtonImg.id = 'mavotoc_webextension_button_img';
 
-	newButtonA.style.backgroundImage = 'url(' + getCompleteUrl('images/csv_button.png') + ')';
+	newButtonImg.src = getCompleteUrl('images/csv_button.svg');
+	newButtonImg.alt = 'Make CSV';
 
-	newButtonDiv.appendChild(newButtonA);
+	newButtonDiv.appendChild(newButtonImg);
 
 	let sectionHeaderButtons = document.querySelector('#main.mylist .sectionHeader .sectionHeaderButtons');
 	sectionHeaderButtons.insertBefore(newButtonDiv, sectionHeaderButtons.firstChild);
@@ -57,7 +60,7 @@ function injectHTML () {
 
 
 function addHandler() {
-	let buttonA = document.getElementById('mavotoc_webextension_button_a');
+	let buttonImg = document.getElementById('mavotoc_webextension_button_img');
 	let popupContainer = document.getElementById('mavotoc_webextension_popup_container');
 	let popupContent = document.getElementById('mavotoc_webextension_popup_content_p');
 	let popupClose = document.getElementById('mavotoc_webextension_popup_close');
@@ -89,7 +92,7 @@ function addHandler() {
 		}
 	} 
 
-	buttonA.onclick = function() {
+	buttonImg.onclick = function() {
 		loadVocabulary();
 	}
 

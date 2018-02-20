@@ -4,12 +4,19 @@
 #mavotoc_webextension_button_div {
 	float: left;
 	margin-right: 8px;
+	border: none;
 }
 
-#mavotoc_webextension_button_a {
+#mavotoc_webextension_button_img {
 	width: 142px;
 	height: 39px;
 	margin: 0 auto;
+	/* TODO: find a way to remove the border in chromium */
+}
+
+#mavotoc_webextension_button_img:hover {
+	cursor: pointer;
+	opacity: 0.8;
 }
 
 /* from https://www.w3schools.com/howto/howto_css_modals.asp */

@@ -23,6 +23,6 @@
 	],
 
 	"web_accessible_resources": [
-  	"images/csv_button.png"
+  	"images/csv_button.svg"
 	]
 }
