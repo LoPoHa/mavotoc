@@ -134,11 +134,6 @@ function addHandler() {
 		}
 	}
 
-	function addContentAndDisplayPopop(contentString) {
-		popupContent.innerHTML = contentString;
-		popupContainer.style.display = 'block';
-	}
-
 	// check if the user want kanji notation
 	function isKanji() {
 		return getCookie('notation') === 'kanji';
