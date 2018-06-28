@@ -179,7 +179,7 @@ function addHandler() {
 					to_add = vocabularyAllList[i].KANA;
 				}
 				// replace ideographic space with normal space
-        to_add = to_add.replace(/\u3000/, ' ').trim();
+                to_add = to_add.replace(/\u3000/, ' ').trim();
 				contentString += vocabularyAllList[i].UWRD + ';' + to_add + '<br />';
 			}
 		}
@@ -198,8 +198,10 @@ function addHandler() {
 			classToken: [],
 			lang: '',
 		};
+
 		let url = new URL(document.location);
 		let params = new URLSearchParams(url.search);
+
 		for (let p of params) {
 			let param_name = p[0];
 			let param_value = p[1];
